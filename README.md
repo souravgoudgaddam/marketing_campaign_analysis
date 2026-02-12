@@ -1,4 +1,4 @@
-`📊 Marketing Campaign Performance Analysis
+```📊 Marketing Campaign Performance Analysis
 📌 Project Overview
 
 This project analyzes multi-channel marketing campaign performance using Google Sheets and pivot-based KPI analysis.
@@ -24,8 +24,13 @@ Identify the most profitable marketing channel
 Determine the most cost-efficient acquisition strategy
 
 Evaluate conversion performance by audience segment
-`
+
 
 Analyze profitability trends over time
 
 Provide budget reallocation recommendations
+```
+
+
+
+
